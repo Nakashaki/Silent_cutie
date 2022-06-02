@@ -1,5 +1,8 @@
 # Silent_cutie
 
+Voici un Bot Discord permettant de régler certains.. problèmes que vous pourriez rencontrer un jour
+###### (Rassurez-vous, aucun humain n'a été blessés durant cette expérience)
+
 ## Commandes du Bot:
 
 * !aide pour appeler du renfort  
